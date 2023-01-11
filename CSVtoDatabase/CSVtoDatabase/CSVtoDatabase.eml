@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_18" jdk="18" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Empty Library" scope="COMPILE">
+		<srcroot url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/build/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/demo/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/generated/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/legacy/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/main/core-api/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/main/core-impl/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/main/protocol-impl/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/main/user-api/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/main/user-impl/java"/>
+		<srcroot bind="false" url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/src/test/java"/>
+	</lib>
+</component>
